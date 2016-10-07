@@ -2,93 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.sitecorn.be/2016/07/08/ucommerce-extensions/</loc>
+    <loc>http://www.sitecorn.be/2016/10/07/upgrade-sitecore-6-5-to-8-2-part1/</loc>
     
-    <lastmod>2016-09-08T15:06:00.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/07/28/add-a-country-to-existing-ucommerce-catalog/</loc>
-    
-    <lastmod>2016-09-08T13:47:35.352Z</lastmod>
+    <lastmod>2016-10-07T15:34:20.134Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sitecorn.be/2016/05/18/custom-mediarequest/</loc>
     
-    <lastmod>2016-09-08T12:57:31.357Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/05/18/sql-cheatsheet/</loc>
-    
-    <lastmod>2016-07-28T13:54:40.257Z</lastmod>
+    <lastmod>2016-09-08T15:45:31.617Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sitecorn.be/2016/07/08/duplicate-ucommerce-store/</loc>
     
-    <lastmod>2016-07-28T13:47:12.599Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/07/08/custom-adyen-skin/</loc>
-    
-    <lastmod>2016-07-28T13:32:56.472Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/07/26/markdown-to-blog-and-documents/</loc>
-    
-    <lastmod>2016-07-26T12:25:06.839Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/07/08/tools-plugins/</loc>
-    
-    <lastmod>2016-07-26T11:52:25.947Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sitecorn.be/2016/05/18/javascript-unit-testing/</loc>
-    
-    <lastmod>2016-07-25T13:02:56.563Z</lastmod>
+    <lastmod>2016-09-08T15:44:53.069Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sitecorn.be/2016/05/18/googlemaps-autocomplete-filter-multiple-countries/</loc>
     
-    <lastmod>2016-07-25T12:16:35.201Z</lastmod>
+    <lastmod>2016-09-08T15:44:08.982Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/05/18/javascript-unit-testing/</loc>
+    
+    <lastmod>2016-09-08T15:43:27.919Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/07/26/markdown-to-blog-and-documents/</loc>
+    
+    <lastmod>2016-09-08T15:42:21.098Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sitecorn.be/2016/07/08/modifying-sitecore-itemlinks/</loc>
     
-    <lastmod>2016-07-25T12:16:22.812Z</lastmod>
+    <lastmod>2016-09-08T15:41:21.077Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.sitecorn.be/2016/06/03/sotd/shortcutoftheday/</loc>
+    <loc>http://www.sitecorn.be/2016/05/18/sql-cheatsheet/</loc>
     
-    <lastmod>2016-07-25T12:05:42.501Z</lastmod>
+    <lastmod>2016-09-08T15:39:52.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/07/08/tools-plugins/</loc>
+    
+    <lastmod>2016-09-08T15:39:01.427Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.sitecorn.be/2016/05/18/mvc/sitecore-multiple-forms-on-a-page/</loc>
     
-    <lastmod>2016-07-25T12:05:25.164Z</lastmod>
+    <lastmod>2016-09-08T15:37:48.479Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/06/03/sotd/shortcutoftheday/</loc>
+    
+    <lastmod>2016-09-08T15:37:11.014Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/07/28/add-a-country-to-existing-ucommerce-catalog/</loc>
+    
+    <lastmod>2016-09-08T15:35:43.967Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/07/08/custom-adyen-skin/</loc>
+    
+    <lastmod>2016-09-08T15:34:46.174Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sitecorn.be/2016/07/08/ucommerce-extensions/</loc>
+    
+    <lastmod>2016-09-08T15:06:00.221Z</lastmod>
     
   </url>
   
